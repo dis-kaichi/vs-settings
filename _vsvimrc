@@ -1,0 +1,6 @@
+
+clipboard=unnamed
+
+
+inoremap jj <Esc>
+inoremap <C-r>0 <C-r>+
